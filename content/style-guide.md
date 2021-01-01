@@ -1,95 +1,29 @@
 ---
-title: Style Guide
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+title: Speaking
+subtitle: Some talks I've presented at conferences globally
 img_path: images/6.jpg
 layout: page
+excerpt: ''
+
 ---
+_Talks since 2017_
 
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
-
-The HTML &lt;h1&gt;–&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level and &lt;h6&gt; is the lowest.
-
-# This is an H1
-
-## This is an H2
-
-### This is an H3
-
-#### This is an H4
-
-##### This is an H5
-
-###### This is an H6
-
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
-
-## Quoting
-
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
-
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>― Scott Adams</cite>
-
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the &lt;cite&gt; element.
-
-<hr />
-
-## Unordered Lists
-
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-## Ordered Lists
-
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-```
-/* Some example CSS code */
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-```
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-    <caption>Simple table with caption and header</caption>
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+Nov. ‘20 [**Consequence Design in UX Writing**](https://www.meetup.com/portland-ux-writers-community/events/274434437/), **PDX UX Writers Meetup**  
+Oct. ‘20 [**Consequence Design**](https://youtu.be/Aw5ovySXf6o?t=1430), **US Web Design System Monthly Call**  
+Oct. ‘20 [**The Consequences in Service Design**](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers), **Service Design Network Global Conference**  
+July ‘20 [**The Researcher’s Role in Reducing Consequence Design**](https://aneventapart.com/event/online-0720#s24059), **An Event Apart HCD**  
+May ‘20 Hostile Design of Everyday Experiences, **Indy Design Week 2020**  
+Oct. ‘19 Hostile Design of Digital Experiences, **ACM SIGDOC (Portland)**  
+Jun. ‘19 [**_Hostile Design of Digial Experiences_**](https://speakerdex.co/ronbronson/hostile-design-of-digital-experiences-f6054e73) **(Fjord Austin)**  
+Jun. ‘19 [**_Involving stakeholders in design research: a primer for success_**](http://uxrconference.com/ron-bronson.html), **UXR Conference (Toronto)** 🇨🇦  
+May ‘19 Code for America Summit (panel)  
+Apr. ‘19 Portland Design Week (panel)  
+Feb. ‘19 [**_Defense Against Dark Patterns: Let’s talk about anti-UX_**](https://youtu.be/3nLretWklAo), **Donut.js (Portland)**  
+Oct. ‘18 _Improving the Product Toolbox_, **Indianapolis Design Week**  
+Apr. ‘18 [**_Migrating a Small City to Drupal_**](https://www.youtube.com/watch?v=REUJCWpFOcI), **DrupalCon (Nashville)**  
+Jan. ‘18 _Service Design in Higher Education_, **Carnegie Conference (Orlando)**  
+Nov. 2017 _Tackling Content Migration & Maintenance, **Confab Higher Ed**  
+_Sep. 2017 _Workshop: Content Migration_, **Confab Intensive (Denver)**  
+Jul. 2017 [**_Discovery & Microinteractions: Improving the Product Toolbox_**](https://vimeo.com/228911684), **Design & Content Conference (Vancouver)** 🇨🇦  
+May 2017 _Blind Spots That Ruin Product Experiences_, **Pixel Up! (Cape Town) 🇿🇦**  
+Apr. 2017 _Tackling Content Migration & Maintenance_, **University of Illinois Web Conference**
