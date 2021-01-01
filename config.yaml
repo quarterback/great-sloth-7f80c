@@ -8,8 +8,8 @@ params:
   header:
     type: header
     template: header
-    title: Ampersand
-    logo_img: "/images/logo-2.png"
+    title: Ron Bronson
+    logo_img: ''
     has_nav: true
     nav_links:
     - type: action
