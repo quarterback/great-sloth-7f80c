@@ -1,29 +1,40 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2019-03-30'
-thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+title: Postcards From Vimpeli
+date: 2019-09-09T09:00:00-07:00
+thumb_img_path: "/images/2019-08-31-14-02-20.jpg"
+content_img_path: "/images/2019-08-31-14-02-20.jpg"
+excerpt: 'The story of my first trip to see a Finnish baseball (Pesäpallo) game in
+  person. '
 layout: post
+subtitle: A dispatch from the journey of a lifetime
+
 ---
+### Postcards from Vimpeli
 
-**Working from home** convallis aenean et tortor at risus viverra adipiscing at in. Maecenas accumsan lacus vel facilisis volutpat est. Nisl suscipit adipiscing bibendum est ultricies. Nulla facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus. Eget velit aliquet sagittis id. Morbi non arcu risus quis varius quam quisque id diam. Facilisis gravida neque convallis a cras semper auctor neque vitae. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Aliquam vestibulum morbi blandit cursus risus. Eget mauris pharetra et ultrices neque ornare.
+![](https://cdn-images-1.medium.com/max/2600/1*6CESSWvqwaIzxph8Zw1HEw.jpeg)
 
-## Advantages and Disadvantages 
+I traveled to Vimpeli, Finland for Pesäpallo playoff game. Vimpeli, who are two years removed from back-to-back Finnish championships were taking on the defending champs from Joensuu, about 4.5 hours to the east. As this was the third game of the best-of-five series, tensions at Saarikenttä — Vimpeli’s home ballpark — were high.
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+Because Saarikennta is built on an island, it produces unparalleled drama when the ball gets hit into the creek, where it’s still considered in play.
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+A few years ago, I [first wrote about my Finnish baseball story](https://medium.com/@ronbronson/pesapallo-9dc4d3f1ed5e). Over the years, it’s evolved from something I’d talk about at parties, to something my friends tell strangers when I first meet them. It usually leads to rabbit hole of follow-up questions:
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+* _“Wait, they play baseball in Finland?”_
+* _“Why are all the bases in the wrong direction?”_
+* _“How did **you**_ _find it?” “This is crazy!?”_
 
-## Types Of Work
+I’d been watching [Pesäpallo](https://en.wikipedia.org/wiki/Pes%C3%A4pallo) off and on for almost a decade. Even before I wrote about it, I’d learned about this odd Finnish variant of our national pastime and found myself transfixed.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam volutpat. A diam maecenas sed enim ut sem viverra aliquet. Felis eget nunc lobortis mattis aliquam faucibus. Urna cursus eget nunc scelerisque viverra mauris. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Vitae semper quis lectus nulla. Velit sed ullamcorper morbi tincidunt ornare. A arcu cursus vitae congue mauris. Amet nulla facilisi morbi tempus iaculis urna.
+Until a few years ago, it was still quite difficult to get any information about the game in English. It’s still not the easiest sport to follow from abroad if you’re not a Finnish speaker, but social media — specifically the [Superpesis](https://twitter.com/superpesis) (Finnish MLB) embrace of it — has improved things dramatically.
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+So what’s a Finnish baseball game like? Well it’s faster-paced than our baseball, but it’s not speedier at all. Games are divided into two 4-inning double headers. If you win both, the match is over. If you split the series, there’s a 9th inning tiebreaker. If you’re still tied, there’s a “penalty-kicks” style scoring contest where pairs of 5 batter-runner groups attempt to score a run to break the tie. (Needless to say, I never felt more America in finding this part of the game a really unsatisfying way to end a long contest)
 
+![](https://cdn-images-1.medium.com/max/2400/1*2XTB4yt8-RWYTLnG0Y4TlA.jpeg)
 
+At the end of the day, Pesäpallo is really just baseball. Seeing it close didn’t dissuade me from that notion. Sure, the pitching is way different. But it’s still got a lot of nuance to it. Pesäpallo is also a game where every pitch does count, but I’ve described baseball as “an opera” at times, and Pesäpallo has similar arcs that a baseball fan would appreciate once you know the rules.
+
+It was very rewarding to finally get to see a game live. To witness it at the home stadium of my favorite team — even though they lost — still had a lot of meaning. I caught up with two of the people who first helped me learn about the game, answering my questions about the sport online. It was a very full circle moment.
+
+The first trip won’t be my last. Pesäpallo is such a unique way to experience Finland. Driving 4.5 hours each way to watch a game was a really fun way to do something off the tourist path. I’m looking forward to visiting for years to come.
+
+Possibly more!
