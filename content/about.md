@@ -6,7 +6,7 @@ layout: page
 excerpt: ''
 
 ---
-**Ron Bronson** is a service designer based in Portland, Oregon.  
+I'm a service designer based in Portland, Oregon. 
 
 I’ve presented at over 50 design, UX research & content strategy events around the world. Here’s an abridged list my talks since 2017:
 
