@@ -77,6 +77,13 @@ params:
       new_window: true
     - type: action
       template: action
+      label: Spotify
+      url: https://open.spotify.com/user/ronbronson?si=QBhUd9-7T7OcC6SdTkxJIA
+      style: icon
+      icon_class: fa-spotify
+      new_window: true
+    - type: action
+      template: action
       label: GitHub
       url: https://github.com/quarterback
       style: icon
