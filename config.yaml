@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   description: Design Manager & Strategist
   layout_style: grid
-  palette: red
+  palette: black
   header:
     type: header
     template: header
@@ -40,7 +40,6 @@ params:
       style: link
       icon_class: ''
       new_window: false
-      
   footer:
     type: footer
     template: footer
