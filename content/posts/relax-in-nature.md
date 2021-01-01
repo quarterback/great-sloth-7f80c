@@ -2,10 +2,10 @@
 title: What your app gets wrong about discovery
 subtitle: ''
 date: 2017-08-23T00:00:00-07:00
-thumb_img_path: images/4.jpg
-content_img_path: images/4.jpg
-excerpt: The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+thumb_img_path: ''
+content_img_path: ''
+excerpt: I was wrong about firehose feeds in 2017, because they're toxic. Here's some
+  evidence about it.
 layout: post
 draft: true
 
