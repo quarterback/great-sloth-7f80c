@@ -28,7 +28,7 @@ params:
       new_window: false
     - type: action
       template: action
-      label: Style Guide
+      label: Speaking
       url: "/speaking"
       style: link
       icon_class: ''
