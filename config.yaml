@@ -9,7 +9,7 @@ params:
     type: header
     template: header
     title: Ampersand
-    logo_img: images/logo.png
+    logo_img: "/images/logo-2.png"
     has_nav: true
     nav_links:
     - type: action
@@ -30,13 +30,6 @@ params:
       template: action
       label: Style Guide
       url: "/style-guide"
-      style: link
-      icon_class: ''
-      new_window: false
-    - type: action
-      template: action
-      label: Contact
-      url: "/contact"
       style: link
       icon_class: ''
       new_window: false
