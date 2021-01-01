@@ -33,7 +33,7 @@ params:
         icon_class: ''
         new_window: false
       - label: Interviews
-        url: lorem-ipsum
+        url: /interviews
         style: link
         icon_class: lorem-ipsum
         new_window: false
