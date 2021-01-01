@@ -1,31 +1,28 @@
 ---
-title: What Is Photography and What It Means To Me
-subtitle: A intresting tale about Photography and me
-date: '2018-01-15'
-thumb_img_path: images/8.jpg
-content_img_path: images/8.jpg
-excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+title: On Consequence Design
+subtitle: ''
+date: 2020-04-25T00:00:00-07:00
+thumb_img_path: "/images/neonbrand-cmz06-0btw-unsplash.jpg"
+content_img_path: "/images/neonbrand-cmz06-0btw-unsplash.jpg"
+excerpt: What are we talking about when we start thinking aloud about consequence
+  design?
 layout: post
+
 ---
+I think consequence design is the doormat in front of the door that when you look underneath, insects who weren't visible scurry in all directions.
 
-**Photography is the science**, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
+I've been talking about it for years, but it didn't have a name. Everyone gets so excited about service design, because at its core, service design is concerned with cutting through the morass of friction built into actual service delivery, to get people what they need. The problem is, all of this stuff is based on a framework of good intentions that simply does not exist in the real world.
 
-Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+As I've traveled the United States, you see examples of the disparities in service design based on who the market is. If you've ever taken a Greyhound bus, flown on a low-cost airline, or been in a transit station where you needed to keep your ticket (without any signage indicating this); you understand how some people are subjected to sub-standard services as a rule. More often than not, these people are less wealthy and come from so-called undesirable parts of town.
 
-> When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
+This goes beyond just the design of public services. Growing up, I remember when my hometown had local banks. I also remember when those local banks were eventually acquired by larger ones until we no longer had any local banks. Whenever anyone talks about 'food deserts' -- neighborhoods without access to large-scale supermarkets with fresh grocery items -- understand that these are business decisions, but also, service design problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non quam lacus suspendisse faucibus interdum posuere lorem. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ultricies mi quis hendrerit dolor magna eget est. Est velit egestas dui id ornare arcu. Elementum tempus egestas sed sed risus. Dui ut ornare lectus sit amet est placerat. Sed arcu non odio euismod lacinia at quis risus sed. Lectus urna duis convallis convallis tellus id interdum velit. Laoreet sit amet cursus sit amet dictum sit. 
+The problem is, we've come to conflate service design with Post-It Notes, consultancy speak, and occasionally technocrat public servants. All of these (sometimes) well-intentioned folks can't workshop or blueprint their way out of systems that were and are designed to thwart upward mobility. Some friction is designed on purpose, out of malice, to punish poor people. Whenever some person gets on a stage and tries to talk about 'design ethics', they've already told on themselves. We can't assume an ethical framework is going to solve anything until I know what your beliefs actually are. Thanks to Twitter, people are sometimes accidentally good at saying the quiet part loud, giving us a glimpse into their real intentions.
 
-Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Tincidunt lobortis feugiat vivamus at augue eget. Nulla at volutpat diam ut venenatis. Amet est placerat in egestas erat. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Molestie a iaculis at erat pellentesque. Sed tempus urna et pharetra pharetra. Lacus viverra vitae congue eu consequat ac felis donec. Sapien eget mi proin sed libero enim sed.
+So what's the real question? What led me on the journey to 'consequence design' was a central question, "What happens in a post-service design world?" If all you consultants and service designers have your way, what will that world look like? What comes after? No one has ever truly been able to map that out, despite all of the reams of giant-sized wallpaper and markers used over the past decade. The reason? There's no one-size-fits-all service design. People, organizations, and institutions are complicated. Things get messy.
 
-## Creative Photography
+Talking about UX anti-patterns (dark patterns) is just one facet of how real world frictions proliferate the web in all sorts of unhelpful ways. It goes beyond an annoying pop-up window, though. We're replacing humans with systems that weren't designed in the open and calling the decision-making objective. I tweeted years ago that one of my favorite shortcuts to awful voice prompt systems is to push 0 or say 'operator' until the system lets me speak to an actual person. (It usually works.)
 
-Faucibus et molestie ac feugiat. Auctor augue mauris augue neque gravida in fermentum. Consequat semper viverra nam libero justo laoreet sit amet. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Euismod quis viverra nibh cras pulvinar mattis nunc. Nibh cras pulvinar mattis nunc sed. Pellentesque massa placerat duis ultricies. Mollis aliquam ut porttitor leo a diam. Donec et odio pellentesque diam. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin.
+**So what do we do about it?** I think before we can 'solve' the problem, we have to believe there's actually a set of problems to solve. I'm not convinced that we're there yet. People still think they're doing an okay job designing broken services and running interference -- even in the time of a pandemic -- so I'm less interested in talking about how to fix it, I'm going to spend some time thinking aloud about the design of services, the ontology of friction, and some history about how we've gotten here.
 
-Odio pellentesque diam volutpat commodo. Purus in mollis nunc sed id semper. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Viverra nibh cras pulvinar mattis nunc sed blandit. Massa tincidunt dui ut ornare lectus. Turpis tincidunt id aliquet risus. Ut aliquam purus sit amet luctus venenatis lectus. Consectetur adipiscing elit pellentesque habitant. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Quis vel eros donec ac. Ut pharetra sit amet aliquam id. Lobortis elementum nibh tellus molestie nunc non blandit. Dignissim cras tincidunt lobortis feugiat vivamus at. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor. Mattis nunc sed blandit libero volutpat sed. Dignissim diam quis enim lobortis scelerisque fermentum.
-
-Gravida dictum fusce ut placerat orci nulla pellentesque. Elementum nibh tellus molestie nunc non. Tortor at risus viverra adipiscing at in. Eget nulla facilisi etiam dignissim diam quis. Feugiat in fermentum posuere urna. Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Quis imperdiet massa tincidunt nunc. Orci phasellus egestas tellus rutrum tellus pellentesque. Sagittis vitae et leo duis ut. Ornare quam viverra orci sagittis. Mi sit amet mauris commodo. Elit sed vulputate mi sit amet mauris commodo quis imperdiet.
+I'm convinced the other side of so-called 'human centered design' is something else entirely. I don't think it's institutional or organizational, it's localized and values-based. Before we can get there, I think we need to understand how spatial and digital experiences have morphed into something far worse than the pen & paper days of yore.
