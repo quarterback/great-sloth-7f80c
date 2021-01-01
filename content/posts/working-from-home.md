@@ -9,10 +9,6 @@ layout: post
 subtitle: A dispatch from the journey of a lifetime
 
 ---
-### Postcards from Vimpeli
-
-![](https://cdn-images-1.medium.com/max/2600/1*6CESSWvqwaIzxph8Zw1HEw.jpeg)
-
 I traveled to Vimpeli, Finland for Pesäpallo playoff game. Vimpeli, who are two years removed from back-to-back Finnish championships were taking on the defending champs from Joensuu, about 4.5 hours to the east. As this was the third game of the best-of-five series, tensions at Saarikenttä — Vimpeli’s home ballpark — were high.
 
 Because Saarikennta is built on an island, it produces unparalleled drama when the ball gets hit into the creek, where it’s still considered in play.
