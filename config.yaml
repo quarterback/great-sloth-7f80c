@@ -43,7 +43,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: ''
+    content: Built hastily w/Hugo, Forestry, Netlify & Github.
     has_social: true
     social_links:
     - type: action
