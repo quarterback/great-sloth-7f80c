@@ -1,6 +1,5 @@
----
 title: Ron Bronson
-baseURL: "/"
+baseURL: /
 params:
   description: Design Manager & Strategist
   layout_style: grid
@@ -12,77 +11,77 @@ params:
     logo_img: ''
     has_nav: true
     nav_links:
-    - type: action
-      template: action
-      label: Home
-      url: "/"
-      style: link
-      icon_class: ''
-      new_window: false
-    - type: action
-      template: action
-      label: About
-      url: "/about"
-      style: link
-      icon_class: ''
-      new_window: false
-    - type: action
-      template: action
-      label: Style Guide
-      url: "/style-guide"
-      style: link
-      icon_class: ''
-      new_window: false
+      - type: action
+        template: action
+        label: Home
+        url: /
+        style: link
+        icon_class: ''
+        new_window: false
+      - type: action
+        template: action
+        label: About
+        url: /about
+        style: link
+        icon_class: ''
+        new_window: false
+      - type: action
+        template: action
+        label: Speaking
+        url: /style-guide
+        style: link
+        icon_class: ''
+        new_window: false
   footer:
     type: footer
     template: footer
     content: ''
     has_social: true
     social_links:
-    - type: action
-      template: action
-      label: Twitter
-      url: https://twitter.com/ronbronson
-      style: icon
-      icon_class: fa-twitter
-      new_window: true
-    - type: action
-      template: action
-      label: Instagram
-      url: https://www.instagram.com/portlandneon
-      style: icon
-      icon_class: fa-instagram
-      new_window: true
-    - type: action
-      template: action
-      label: Last.fm
-      url: https://www.last.fm/user/omnivoreron
-      style: icon
-      icon_class: fa-lastfm
-      new_window: true
-    - type: action
-      template: action
-      label: LinkedIn
-      url: https://www.linkedin.com/in/ronbronson
-      style: icon
-      icon_class: fa-linkedin
-      new_window: true
-    - type: action
-      template: action
-      label: GitHub
-      url: https://github.com/quarterback
-      style: icon
-      icon_class: fa-github
-      new_window: true
+      - type: action
+        template: action
+        label: Twitter
+        url: 'https://twitter.com/ronbronson'
+        style: icon
+        icon_class: fa-twitter
+        new_window: true
+      - type: action
+        template: action
+        label: Instagram
+        url: 'https://www.instagram.com/portlandneon'
+        style: icon
+        icon_class: fa-instagram
+        new_window: true
+      - type: action
+        template: action
+        label: Last.fm
+        url: 'https://www.last.fm/user/omnivoreron'
+        style: icon
+        icon_class: fa-lastfm
+        new_window: true
+      - type: action
+        template: action
+        label: LinkedIn
+        url: 'https://www.linkedin.com/in/ronbronson'
+        style: icon
+        icon_class: fa-linkedin
+        new_window: true
+      - type: action
+        template: action
+        label: GitHub
+        url: 'https://github.com/quarterback'
+        style: icon
+        icon_class: fa-github
+        new_window: true
     has_subscribe: false
     subscribe_title: Subscribe for new updates
     subscribe_content: ''
-    subscribe_action: https://ronbronson.substack.com/
+    subscribe_action: 'https://ronbronson.substack.com/'
     links: []
 taxonomies:
   stub: stub
 disableKinds:
-- RSS
-- taxonomy
-- taxonomyTerm
+  - RSS
+  - taxonomy
+  - taxonomyTerm
 uglyURLs: false
