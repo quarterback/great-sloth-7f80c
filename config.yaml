@@ -79,10 +79,10 @@ params:
       new_window: true
     - type: action
       template: action
-      label: DEV
-      url: https://dev.to/
+      label: Last.fm
+      url: https://www.last.fm/user/omnivoreron
       style: icon
-      icon_class: fa-dev
+      icon_class: fa-lastfm
       new_window: true
     has_subscribe: true
     subscribe_title: Subscribe for new updates
