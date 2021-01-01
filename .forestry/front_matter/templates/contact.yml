@@ -53,5 +53,3 @@ fields:
   default: contact
   config:
     required: true
-pages:
-- content/contact.md
