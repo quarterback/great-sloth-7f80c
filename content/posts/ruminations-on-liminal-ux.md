@@ -1,7 +1,7 @@
 +++
 content_img_path = "/images/compare-fibre-jlrnbe3jn3o-unsplash.jpg"
 date = 2020-02-09T08:00:00Z
-excerpt = ""
+excerpt = "Thinking aloud about the parts of the user experience that no one owns."
 layout = "post"
 subtitle = "Thinking aloud about the parts of the user experience that no one owns."
 thumb_img_path = "/images/compare-fibre-jlrnbe3jn3o-unsplash.jpg"
