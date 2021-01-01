@@ -30,5 +30,6 @@ fields:
 pages:
 - content/about.md
 - content/contact-success.md
+- content/interviews.md
 - content/style-guide.md
 - content/subscribe-success.md
