@@ -1,7 +1,7 @@
 ---
 title: Speaking
 subtitle: Some talks I've presented at conferences globally
-img_path: images/6.jpg
+img_path: "/images/20201022_164617.jpg"
 layout: page
 excerpt: ''
 
