@@ -38,6 +38,12 @@ params:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   footer:
     type: footer
     template: footer
