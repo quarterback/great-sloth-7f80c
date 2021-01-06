@@ -3,8 +3,8 @@ title: Ron Bronson
 baseURL: "/"
 params:
   description: Design Manager & Strategist
-  layout_style: grid
-  palette: black
+  layout_style: list
+  palette: green
   header:
     type: header
     template: header
