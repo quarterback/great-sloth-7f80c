@@ -6,6 +6,8 @@ subtitle = ""
 title = "Interviews"
 
 +++
+
+
 [**Shaping better user centered products - Editor X interview (Oct '20)**](https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design)
 
 [**Technically Speaking podcast - Consequence Design - June ‘20**](https://www.youtube.com/watch?v=L9hbuPpEFb4)
