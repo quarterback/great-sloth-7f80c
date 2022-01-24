@@ -6,32 +6,36 @@ subtitle = ""
 title = "Interviews"
 
 +++
+[**IA Lens a Day Podcast** (Sept '21)](https://youtu.be/nnuYyD7xXIk)  
 
+[**Surfacing Podcast** (Jul. '21)](https://www.surfacingpodcast.com/ron-bronson-transcript)  
 
-[**Shaping better user centered products - Editor X interview (Oct '20)**](https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design)
+[**Revision Path Podcast**(Jul. '21)](https://revisionpath.com/ron-bronson/)  
 
-[**Technically Speaking podcast - Consequence Design - June ‘20**](https://www.youtube.com/watch?v=L9hbuPpEFb4)
+[**ACT-IAC Podcast** (Jun. '21)](https://open.spotify.com/episode/3Xd9MZ9HdByErb41jb7vUX)  
 
-[**Thought Feeder podcast - Service Design & Consequences - May ‘20**](https://thoughtfeederpod.com/podcast/service-design-and-consequences/)
+[**Human, The Designer podcast** (May '21)](https://open.spotify.com/episode/3KRy0ztHvqevYpP4EYn5BV?si=VIqL0OSsSvymKJ81alinrg)  
 
-[**Superpesis Roundup podcast - May ‘20**](https://www.podbean.com/media/share/pb-um53t-d8f64a)
+[**Shaping better user centered products - Editor X interview (Oct '20)**](https://www.editorx.com/shaping-design/article/ron-bronson-interview-consequence-design)  
 
-[**Gather Content - Should You Have FAQs on your site?**](https://gathercontent.com/blog/big-question-should-you-have-faqs-on-your-website)
+[**Technically Speaking podcast - Consequence Design - June ‘20**](https://www.youtube.com/watch?v=L9hbuPpEFb4)  
 
-[**Vimpelin Veto - Sept. ‘19**](https://vimpelinveto.fi/uutiset/detail/pesaepallo/3046-ron-bronson-toteutti-veto-haaveensa)
+[**Thought Feeder podcast - Service Design & Consequences - May ‘20**](https://thoughtfeederpod.com/podcast/service-design-and-consequences/)  
 
-[**Superpesis website (in Finnish) - Sept. ‘19**](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/)
+[**Superpesis Roundup podcast - May ‘20**](https://www.podbean.com/media/share/pb-um53t-d8f64a)  
 
-[**Finnish Television - Vimpeli, Finland, Aug. ‘19**](https://www.youtube.com/watch?v=0sLQu_HUbAM)
+[**Gather Content - Should You Have FAQs on your site?**](https://gathercontent.com/blog/big-question-should-you-have-faqs-on-your-website)  
 
-[**UX Podcast - Dark Patterns, ‘19**](https://drunkenux.com/podcast/dux41/)
+[**Superpesis website (in Finnish) - Sept. ‘19**](https://www.superpesis.fi/uutiset/yhdysvaltalainen-ron-bronson-toteutti-unelmansa-ja-matkusti-suomeen-katsomaan-pesapalloa/)  
 
-[**Problem Solving in Government (New America, ‘18)**](https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/this-is-everyones-work/)
+[**UX Podcast - Dark Patterns, ‘19**](https://drunkenux.com/podcast/dux41/)  
 
-[**Responsive Web Design Podcast - Apr ‘17**](https://responsivewebdesign.com/podcast/ron-bronson/)
+[**Problem Solving in Government (New America, ‘18)**](https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/this-is-everyones-work/)  
 
-[**Random Trek podcast, ‘17**](https://www.theincomparable.com/randomtrek/145/)
+[**Responsive Web Design Podcast - Apr ‘17**](https://responsivewebdesign.com/podcast/ron-bronson/)  
 
-[**HighEdWeb Link Magazine, ‘17**](https://link.highedweb.org/2017/01/six-questions-with-ron-bronson/)
+[**Random Trek podcast, ‘17**](https://www.theincomparable.com/randomtrek/145/)  
 
-[**Revision Path podcast, ‘14**](http://revisionpath.com/ron-bronson/)
+[**HighEdWeb Link Magazine, ‘17**](https://link.highedweb.org/2017/01/six-questions-with-ron-bronson/)  
+
+[**Revision Path podcast, ‘14**](http://revisionpath.com/ron-bronson/)  
