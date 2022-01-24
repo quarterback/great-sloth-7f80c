@@ -1,6 +1,6 @@
 ---
 title: Speaking
-subtitle: Some talks I've presented at conferences globally
+subtitle: 
 img_path: "/images/20201022_164617.jpg"
 layout: page
 excerpt: ''
@@ -8,6 +8,9 @@ excerpt: ''
 ---
 _Talks since 2017_
 
+Feb. '22 [Designing for Crisis](https://modwellington.com/mod-2022/) **Mindset of Design Festival** (Wellington, NZ) 🇳🇿
+Nov. '21 [The Designer's Share of the Problem](https://vimeo.com/651801535)**IxDA Oslo**
+Oct. '21 Colorado Springs Design Week
 Nov. ‘20 [**Consequence Design in UX Writing**](https://www.meetup.com/portland-ux-writers-community/events/274434437/), **PDX UX Writers Meetup**  
 Oct. ‘20 [**Consequence Design**](https://youtu.be/Aw5ovySXf6o?t=1430), **US Web Design System Monthly Call**  
 Oct. ‘20 [**The Consequences in Service Design**](https://www.servicedesignglobalconference.com/website/1326/sdgc20/#SDGC20%20Speakers), **Service Design Network Global Conference**  
